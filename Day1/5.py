@@ -1,3 +1,2 @@
-string = input()
-res = "".join([i+i for i in string])
+res = "".join([i+i for i in input()])
 print(res)
